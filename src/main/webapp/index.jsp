@@ -10,7 +10,7 @@
 %>
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <%@include file="assets/html/head.jsp"%>
 <body>
 <%@include file="assets/html/header.jsp"%>
@@ -20,7 +20,7 @@
     <div class="container px-4 px-lg-5 mt-5">
       <div class="row justify-content-center">
         <h1>
-          Eventos Disponibles
+          Habitaciones Disponibles
           (<%=listaHabitaciones.size()%>)
         </h1>
         <hr/>
