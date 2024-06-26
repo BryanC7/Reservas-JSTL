@@ -1,3 +1,4 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container px-4 px-lg-5">
         <a class="navbar-brand" href="#">
@@ -7,7 +8,8 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
                 <li class="nav-item"><a class="nav-link active" aria-current="page" href="/reservassheraton_war_exploded/">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Nosotros</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Política de Calidad</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Desafío Latam</a></li>
             </ul>
         </div>
     </div>

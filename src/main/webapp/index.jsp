@@ -10,7 +10,7 @@
 %>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <%@include file="assets/html/head.jsp"%>
 <body>
 <%@include file="assets/html/header.jsp"%>
